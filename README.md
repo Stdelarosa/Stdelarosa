@@ -4,7 +4,7 @@
 
 - <b>Personal</b>
   - [Nessus Vulnerability Scan](https://github.com/Stdelarosa/NessusVulnerabilityScan)
-
+  - [Windows Hardening]
 <h2>📜 Certifications</h2>
 
 - <b>CompTIA Network+</b>
