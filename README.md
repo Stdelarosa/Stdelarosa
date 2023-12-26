@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Personal</b>
-  - [Nessus Vulnerability Scan](https://github.com/Stdelarosa/NessusVulnerabilityScan)
+- [Nessus Vulnerability Scan](https://github.com/Stdelarosa/NessusVulnerabilityScan)
     
-  - [Windows Hardening](https://github.com/Stdelarosa/Windows_Hardening)
+- [Windows Hardening](https://github.com/Stdelarosa/Windows_Hardening)
 <h2>📜 Certifications</h2>
 
 - <b>CompTIA Network+</b>
