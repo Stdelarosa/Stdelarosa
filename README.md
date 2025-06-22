@@ -1,20 +1,22 @@
-<h1>Hi, I'm Saint! </h1>
+# Hi, I'm Saint!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## Professional Overview
 
-- [Nessus Vulnerability Scan](https://github.com/Stdelarosa/NessusVulnerabilityScan)
-    
-- [Windows Hardening](https://github.com/Stdelarosa/Windows_Hardening)
-<h2>📜 Certifications</h2>
+Hey, I'm Saint. I currently work in operations support, where I focus on optimizing workflows, analyzing data, and supporting strategic decision-making. I'm actively building a foundation in data analysis, governance, automation, and reporting using tools like Excel, SQL, Python, and Power BI.
 
-- <b>CompTIA Network+</b>
+My long-term goal is to become a Chief Data Officer—leading efforts to turn raw data into actionable insights that serve the public good. I'm especially interested in how strong data infrastructure, ethical stewardship, and cross-functional collaboration can drive better decisions at both organizational and civic levels.
 
-- <b>CompTIA Security+</b>
+Right now, I'm transitioning into data operations roles where I can work with high-impact teams and scale my influence.
 
-<h2> 🤳 Connect with me:</h2>
+## Certifications
 
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/black/fish-2-xxl.png" />][fishbowl]
+- Asana Workflow Specialist  
+- CompTIA Network+  
+- CompTIA Security+  
 
-[linkedin]: https://www.linkedin.com/in/saint/
-[fishbowl]: https://www.fishbowlapp.com/fb/saint
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237FFFD4?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/saint/)
+[![Email](https://img.shields.io/badge/Email-%237FFFD4?style=flat&logo=gmail&logoColor=black)](mailto:saint.j.delarosa@gmail.com)
+
+
